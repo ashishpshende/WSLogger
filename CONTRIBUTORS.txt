@@ -1,4 +1,7 @@
 Thanks to the following folks for patches and other contributions:
 
-Mr. Jayesh Kitukale
-Ashish Shende (that's me!)
+Mr. Jayesh Kitukale (jkitukale@gmail.com)
+Ashish Shende (that's me!) (ashishpshende@gmail.com)
+
+
+
