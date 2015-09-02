@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
 
 
   # ―――  Spec License  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
-  s.license      = { :type => "WhiteSnow Softwares", :file => "LICENSE" }
+  s.license      = { :type => "WhiteSnow Softwares", :file => "LICENSE.txt" }
 
 
   # ――― Author Metadata  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
